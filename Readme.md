@@ -1,44 +1,46 @@
-# Dataset Repository for PowerBI Dashboards
+# 📊 Dataset Repository for PowerBI Dashboards
 
-Welcome to the Dataset Repository, your source for storing datasets to seamlessly reload them into PowerBI and craft stunning dashboards!
+Welcome to the **Dataset Repository**, your source for storing datasets to seamlessly reload them into PowerBI and craft stunning dashboards! 🚀
 
-## Description
+## Description 📋
 
 This repository serves as a centralized hub for all your datasets, enabling effortless integration with PowerBI for the creation of captivating and insightful dashboards.
 
-## Getting Started
+## Getting Started 🚀
 
 Follow these simple steps to get started with using the datasets in PowerBI:
 
-1. Open the dataset CSV file in this repository, Click the `Raw icon`, Copy the link of the page containing raw dataset to your local machine.
+1. Open the dataset CSV file in this repository.
+   - Click the :page_facing_up: `Raw` icon.
+   - Copy the link of the page containing the raw dataset to your local machine.
 2. Load the desired dataset into PowerBI.
 3. Design and build your customized dashboard.
 
-## Features
+## Features ✨
 
 - Centralized dataset storage.
 - Quick and easy integration with PowerBI.
 - Empowers the creation of impactful dashboards.
 
-## Usage
+## Usage 📊
 
 Explore the datasets and harness the power of PowerBI to generate engaging visualizations. Here's an example of loading a dataset in PowerBI:
 1. Open PowerBI.
-1. Click ` Get Data `.
-1. Search and Select **Web**.
-1. Paste the link of your raw CSV hosted in the repository, e.g: ` https://raw.githubusercontent.com/eaedk/dataset-GLEN/main/Train.csv `  .
+2. Click :arrow_down: `Get Data`.
+3. Search and Select **Web**.
+4. Paste the link of your raw CSV hosted in the repository, e.g: `https://raw.githubusercontent.com/eaedk/dataset-GLEN/main/Train.csv`.
 
-# BI Requirements
+## 📈 BI Requirements
 
-1. Total number of People who took the survey.
-1. Total number of cell phone access.
-1. Total number with no cell phone access.
-1. What is the level of Education by job type?
-1. Bank account by a relationship with head.
-1. Percentage of bank accounts by location and education type.
-1. What is the Household size by job type?
-    - Ability to filter by country
-    - Ability to filter by year
+1. Total number of people who took the survey.
+2. Total number of people with cell phone access.
+3. Total number of people without cell phone access.
+4. Education level breakdown by job type.
+5. Bank account ownership based on the relationship with the head.
+6. Percentage of bank accounts by location and education type.
+7. Household size analysis by job type.
+    - Ability to filter by country 🌍
+    - Ability to filter by year 📅
 
 <!-- ```PowerQuery
 let
@@ -51,16 +53,19 @@ in
     #"Expanded Data"
 ``` -->
 
-# Contributing
+## Contributing 👥
+
 Contributions are welcomed! To contribute to this project:
 
 1. Fork the repository.
-1. Create a new branch.
-1. Commit your changes.
-1. Open a pull request.
+2. Create a new branch.
+3. Commit your changes.
+4. Open a pull request.
 
-# License
-This project is licensed under the [MIT License]().
+## License 📄
 
-# Contact
-For any questions or suggestions, feel free to reach out at your.email@example.com.
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact 📧
+
+For any questions or suggestions, feel free to reach out at your.email@example.com. 👋
