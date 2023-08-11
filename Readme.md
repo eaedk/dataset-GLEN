@@ -10,7 +10,7 @@ This repository serves as a centralized hub for all your datasets, enabling effo
 
 Follow these simple steps to get started with using the datasets in PowerBI:
 
-1. Clone this repository to your local machine.
+1. Open the dataset CSV file in this repository, Click the `Raw icon`, Copy the link of the page containing raw dataset to your local machine.
 2. Load the desired dataset into PowerBI.
 3. Design and build your customized dashboard.
 
@@ -26,7 +26,25 @@ Explore the datasets and harness the power of PowerBI to generate engaging visua
 1. Open PowerBI.
 1. Click ` Get Data `.
 1. Search and Select **Web**.
-1. Paste the link of your raw CSV hosted in the repository, e.g: ``  .
+1. Paste the link of your raw CSV hosted in the repository, e.g: ` https://raw.githubusercontent.com/eaedk/dataset-GLEN/main/Train.csv `  .
+
+# BI Requirements
+
+Total number of People who took the survey.
+
+Total number of cell phone access.
+
+Total number with no cell phone access.
+
+What is the level of Education by job type?
+
+Bank account by a relationship with head.
+
+Percentage of bank accounts by location and education type.
+
+What is the Household size by job type?
+- Ability to filter by country
+- Ability to filter by year
 
 <!-- ```PowerQuery
 let
