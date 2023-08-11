@@ -30,21 +30,15 @@ Explore the datasets and harness the power of PowerBI to generate engaging visua
 
 # BI Requirements
 
-Total number of People who took the survey.
-
-Total number of cell phone access.
-
-Total number with no cell phone access.
-
-What is the level of Education by job type?
-
-Bank account by a relationship with head.
-
-Percentage of bank accounts by location and education type.
-
-What is the Household size by job type?
-- Ability to filter by country
-- Ability to filter by year
+1. Total number of People who took the survey.
+1. Total number of cell phone access.
+1. Total number with no cell phone access.
+1. What is the level of Education by job type?
+1. Bank account by a relationship with head.
+1. Percentage of bank accounts by location and education type.
+1. What is the Household size by job type?
+    - Ability to filter by country
+    - Ability to filter by year
 
 <!-- ```PowerQuery
 let
